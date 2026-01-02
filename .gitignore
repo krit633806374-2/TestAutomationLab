@@ -1,0 +1,26 @@
+# Chrome for Testing - ไฟล์ขนาดใหญ่
+ChromeForTesting/
+
+# Robot Framework outputs
+log.html
+output.xml
+report.html
+selenium-screenshot-*.png
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Office temp files
+~$*.docx
+~*.tmp
+
+# Batch files (optional - uncomment if you don't want to track)
+# *.bat
